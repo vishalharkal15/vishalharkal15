@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalharkal15" alt="vishalharkal15" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/harkal_vishal" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/harkal_vishal?logo=twitter&style=for-the-badge" alt="https://x.com/harkal_vishal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/harkal_vishal" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/harkal_vishal?logo=twitter&style=for-the-badge" alt="https://x.com/@harkal_vishal" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://vishalharkal.me/](https://vishalharkal.me/)
 
