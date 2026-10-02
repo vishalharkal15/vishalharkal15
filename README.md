@@ -1,132 +1,48 @@
-# Hi, I'm Vishal Harkal 👋
+<h1 align="center">Hi 👋, I'm Vishal Harkal</h1>
+<h3 align="center">AI / ML Engineer | LLMs · RAG · Machine Learning · AI Engineering</h3>
 
-### AI / ML Engineer | LLMs · RAG · Machine Learning · AI Engineering
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalharkal15&label=Profile%20views&color=0e75b6&style=flat" alt="vishalharkal15" /> </p>
 
-AI Engineer focused on building **LLM-powered applications, production-ready RAG systems, machine learning solutions, and developer tools**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalharkal15" alt="vishalharkal15" /></a> </p>
 
-I enjoy working across the AI engineering stack — from model experimentation and retrieval pipelines to APIs, deployment, evaluation, and production systems.
+<p align="left"> <a href="https://twitter.com/https://x.com/harkal_vishal" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/harkal_vishal?logo=twitter&style=for-the-badge" alt="https://x.com/harkal_vishal" /></a> </p>
 
----
+- 🔭 I’m currently working on [HFT Bot](https://github.com/vishalharkal15/HFT-Bot-v1.0.0)
 
-## 🧠 About Me
+- 🌱 I’m currently learning **TensorFlow, PyTorch, and Scikit-learn for Machine Learning and Generative AI.**
 
-- 🤖 Focused on **AI/ML Engineering, LLM applications and RAG**
-- 🧩 Interested in **agentic AI, reliable AI systems and developer tooling**
-- 🔭 Building practical AI/ML projects and open-source systems
-- 🌱 Continuously learning advanced **LLMs, MLOps and AI engineering**
-- 🎓 B.Tech in Computer Science (AI & ML), 2023–2027
-- 💼 ML Engineer apprenticeship experience at S4S Technologies
-- 🌐 Open-source contributor through GirlScript Summer of Code
+- 👯 I’m looking to collaborate on [etsi-watchdog](https://github.com/etsi-ai/etsi-watchdog)
 
----
+- 🤝 I’m looking for help with [Integrity-Coin](https://github.com/vishalharkal15/Integrity-Coin)
 
-## 🛠️ Technical Stack
+- 👨‍💻 All of my projects are available at [https://vishalharkal.me/](https://vishalharkal.me/)
 
-### Languages
+- 📝 I regularly write articles on [https://medium.com/@studibylofi](https://medium.com/@studibylofi)
 
-Python · C++ · SQL · Bash
+- 💬 Ask me about **Applied AI**
 
-### Machine Learning / Deep Learning
+- 📫 How to reach me **vishalharkal15@gmail.com**
 
-scikit-learn · PyTorch · TensorFlow · Neural Networks · NLP · Computer Vision · Transformers · Fine-tuning
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RibDWCx_GJdb-qspZluKSdoBUa4MIVpy/view?usp=sharing](https://drive.google.com/file/d/1RibDWCx_GJdb-qspZluKSdoBUa4MIVpy/view?usp=sharing)
 
-### GenAI / LLM Engineering
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/harkal_vishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/harkal_vishal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal harkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal harkal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishalharkal15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishalharkal15" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vishalharkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vishalharkal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/patrickvishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patrickvishal" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vishalha976p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishalha976p" height="30" width="40" /></a>
+</p>
 
-LangChain · LangGraph · Hugging Face Transformers · RAG · Prompt Engineering · Embedding Models · Vector Search
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### MLOps / Backend
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/vishalharkal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vishalharkal" /></a></p><br><br>
 
-FastAPI · Flask · MLflow · Docker · Git · GitHub Actions · CI/CD · Model Monitoring
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalharkal15&show_icons=true&locale=en&layout=compact" alt="vishalharkal15" /></p>
 
-### Cloud & Databases
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalharkal15&show_icons=true&locale=en" alt="vishalharkal15" /></p>
 
-AWS · GCP · Azure · PostgreSQL · Supabase · ChromaDB · FAISS · MySQL
-
----
-
-## 🚀 Featured Projects
-
-### 🔎 RAG-based Question Answering Chatbot
-
-A retrieval-augmented question-answering system using LangChain, Hugging Face Transformers, ChromaDB and FastAPI.
-
-### 💼 Job Community Portal
-
-Full-stack job community platform with separate frontend and backend architecture.
-
-### ⚡ HFT Bot
-
-Python-based automated trading system focused on rule-driven market-data processing and trade execution.
-
-### 📝 GitHub README Generator
-
-Developer tooling project for automatically generating structured, professional GitHub README files.
-
-### 📈 Prediction Models
-
-Machine-learning experimentation and forecasting repositories covering practical ML workflows.
-
-### 🛡️ etsi-watchdog
-
-Open-source contribution to a data-drift monitoring project.
-
----
-
-## 💻 Coding Profiles
-
-> Add verified usernames below before publishing this section.
-
-- 🟠 [LeetCode](https://leetcode.com/patrickvishal)
-- 🔵 [Codeforces](https://codeforces.com/)
-- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- 🟣 [HackerRank](https://www.hackerrank.com/)
-
----
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalharkal15&show_icons=true&hide_border=true&rank_icon=github)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vishalharkal15&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalharkal15&layout=compact&hide_border=true)
-
----
-
-## 🏆 Experience
-
-**Machine Learning Engineer — S4S Technologies**  
-*Feb 2026 – Mar 2026*
-
-- Developed an automated impurities-removing system using ROS.
-- Integrated ML-based anomaly detection for real-time monitoring.
-- Worked with real-time data preprocessing and model integration.
-
-**Open Source Contributor — GirlScript Summer of Code**  
-*Jul 2025 – Dec 2025*
-
-- Contributed bug fixes, features and documentation to AI/ML repositories.
-- Worked through GitHub pull requests, code reviews and issue tracking.
-- Contributed to `etsi-watchdog`.
-
----
-
-## 📜 Certifications & Achievements
-
-- AWS DevOps Engineer — Amazon Web Services
-- Data Engineering — Online Platform
-- Deep Learning Specialization — DeepLearning.AI *(In Progress)*
-- Google Cloud AI/ML Fundamentals — Skills Boost *(In Progress)*
-- Participated in the Meta × Hugging Face OpenEnv Hackathon
-
----
-
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/vishalharkal15
-- LinkedIn: https://www.linkedin.com/in/vishal-harkal-2b3b642b7/
-- Email: vishalharkal15@gmail.com
-
----
-
-### ⚡ Building AI systems, learning continuously, and turning ideas into production.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalharkal15&" alt="vishalharkal15" /></p>
