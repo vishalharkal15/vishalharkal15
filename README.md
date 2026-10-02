@@ -1,48 +1,132 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VISHAL%20HARKAL&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
-</div>
+# Hi, I'm Vishal Harkal 👋
 
-<h1 align="center">Hi 👋, I'm VISHAL HARKAL</h1>
-<h3 align="center">AI / ML Engineer</h3>
+### AI / ML Engineer | LLMs · RAG · Machine Learning · AI Engineering
 
-<p align="center">
-  <em>🤖 Building intelligent systems that learn, adapt, and transform the world.</em>
-</p>
+AI Engineer focused on building **LLM-powered applications, production-ready RAG systems, machine learning solutions, and developer tools**.
 
-## 🧠 About Me
-
-- 🌟 AI / ML Engineer
-I'm an aspiring AI Engineer focused on building real-world intelligent systems using Machine Learning, Deep Learning, and Generative AI. With hands-on experience in developing and deploying ML models, I've built projects including a Fake Review Detection System using NLP techniques and a Spam Detection System achieving over 90% accuracy. I specialize in working with real-world datasets from Kaggle and UCI repositories, and I'm skilled at deploying models through Flask APIs to create practical, usable applications. My core technical expertise spans Python, Machine Learning, Deep Learning, Natural Language Processing, Generative AI, MLOps, Flask, and scikit-learn. Currently, I'm exploring MLOps practices to build scalable, production-ready AI systems that bridge the gap between experimentation and real-world deployment. I've strengthened my foundation through active open-source contributions via GSSoC and by completing certifications in Data Engineering and AWS DevOps. This combination of practical project experience, open-source involvement, and continuous learning has prepared me to contribute meaningfully to AI/ML teams. 
-
-
-
-
-## 🔬 Research & Interests
-
-- 🧬 Deep Learning & Neural Networks
-- 📊 Data Science & Statistical Modeling
-- 🌐 NLP & Large Language Models
-- 👁️ Computer Vision & Image Processing
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalharkal15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalharkal15&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vishalharkal15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalharkal15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+I enjoy working across the AI engineering stack — from model experimentation and retrieval pipelines to APIs, deployment, evaluation, and production systems.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  <p>⭐ Generated with <a href="https://github.com">GitHub README Generator</a> • © 2026 VISHAL HARKAL</p>
-</div>
+## 🧠 About Me
+
+- 🤖 Focused on **AI/ML Engineering, LLM applications and RAG**
+- 🧩 Interested in **agentic AI, reliable AI systems and developer tooling**
+- 🔭 Building practical AI/ML projects and open-source systems
+- 🌱 Continuously learning advanced **LLMs, MLOps and AI engineering**
+- 🎓 B.Tech in Computer Science (AI & ML), 2023–2027
+- 💼 ML Engineer apprenticeship experience at S4S Technologies
+- 🌐 Open-source contributor through GirlScript Summer of Code
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages
+
+Python · C++ · SQL · Bash
+
+### Machine Learning / Deep Learning
+
+scikit-learn · PyTorch · TensorFlow · Neural Networks · NLP · Computer Vision · Transformers · Fine-tuning
+
+### GenAI / LLM Engineering
+
+LangChain · LangGraph · Hugging Face Transformers · RAG · Prompt Engineering · Embedding Models · Vector Search
+
+### MLOps / Backend
+
+FastAPI · Flask · MLflow · Docker · Git · GitHub Actions · CI/CD · Model Monitoring
+
+### Cloud & Databases
+
+AWS · GCP · Azure · PostgreSQL · Supabase · ChromaDB · FAISS · MySQL
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 RAG-based Question Answering Chatbot
+
+A retrieval-augmented question-answering system using LangChain, Hugging Face Transformers, ChromaDB and FastAPI.
+
+### 💼 Job Community Portal
+
+Full-stack job community platform with separate frontend and backend architecture.
+
+### ⚡ HFT Bot
+
+Python-based automated trading system focused on rule-driven market-data processing and trade execution.
+
+### 📝 GitHub README Generator
+
+Developer tooling project for automatically generating structured, professional GitHub README files.
+
+### 📈 Prediction Models
+
+Machine-learning experimentation and forecasting repositories covering practical ML workflows.
+
+### 🛡️ etsi-watchdog
+
+Open-source contribution to a data-drift monitoring project.
+
+---
+
+## 💻 Coding Profiles
+
+> Add verified usernames below before publishing this section.
+
+- 🟠 [LeetCode](https://leetcode.com/)
+- 🔵 [Codeforces](https://codeforces.com/)
+- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- 🟣 [HackerRank](https://www.hackerrank.com/)
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalharkal15&show_icons=true&hide_border=true&rank_icon=github)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vishalharkal15&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalharkal15&layout=compact&hide_border=true)
+
+---
+
+## 🏆 Experience
+
+**Machine Learning Engineer — S4S Technologies**  
+*Feb 2026 – Mar 2026*
+
+- Developed an automated impurities-removing system using ROS.
+- Integrated ML-based anomaly detection for real-time monitoring.
+- Worked with real-time data preprocessing and model integration.
+
+**Open Source Contributor — GirlScript Summer of Code**  
+*Jul 2025 – Dec 2025*
+
+- Contributed bug fixes, features and documentation to AI/ML repositories.
+- Worked through GitHub pull requests, code reviews and issue tracking.
+- Contributed to `etsi-watchdog`.
+
+---
+
+## 📜 Certifications & Achievements
+
+- AWS DevOps Engineer — Amazon Web Services
+- Data Engineering — Online Platform
+- Deep Learning Specialization — DeepLearning.AI *(In Progress)*
+- Google Cloud AI/ML Fundamentals — Skills Boost *(In Progress)*
+- Participated in the Meta × Hugging Face OpenEnv Hackathon
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/vishalharkal15
+- LinkedIn: https://www.linkedin.com/in/vishal-harkal-2b3b642b7/
+- Email: vishalharkal15@gmail.com
+
+---
+
+### ⚡ Building AI systems, learning continuously, and turning ideas into production.
