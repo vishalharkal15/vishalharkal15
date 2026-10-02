@@ -3,19 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalharkal15&label=Profile%20views&color=0e75b6&style=flat" alt="vishalharkal15" /> </p>
 
-- 🔭 I’m currently working on [HFT Bot](https://github.com/vishalharkal15/HFT-Bot-v1.0.0)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalharkal15" alt="vishalharkal15" /></a> </p>
 
-- 🌱 I’m currently learning **TensorFlow, PyTorch, and Scikit-learn for Machine Learning and Generative AI.**
-
-- 👯 I’m looking to collaborate on [etsi-watchdog](https://github.com/etsi-ai/etsi-watchdog)
-
-- 🤝 I’m looking for help with [Integrity-Coin](https://github.com/vishalharkal15/Integrity-Coin)
+<p align="left"> <a href="https://twitter.com/https://x.com/harkal_vishal" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/harkal_vishal?logo=twitter&style=for-the-badge" alt="https://x.com/harkal_vishal" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://vishalharkal.me/](https://vishalharkal.me/)
-
-- 📝 I regularly write articles on [https://medium.com/@studibylofi](https://medium.com/@studibylofi)
-
-- 💬 Ask me about **Applied AI**
 
 - 📫 How to reach me **vishalharkal15@gmail.com**
 
@@ -40,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalharkal15&show_icons=true&locale=en&layout=compact" alt="vishalharkal15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalharkal15&show_icons=true&locale=en" alt="vishalharkal15" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalharkal15&" alt="vishalharkal15" /></p>
