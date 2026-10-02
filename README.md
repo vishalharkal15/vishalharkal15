@@ -76,7 +76,7 @@ Open-source contribution to a data-drift monitoring project.
 
 > Add verified usernames below before publishing this section.
 
-- 🟠 [LeetCode](https://leetcode.com/)
+- 🟠 [LeetCode](https://leetcode.com/patrickvishal)
 - 🔵 [Codeforces](https://codeforces.com/)
 - 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - 🟣 [HackerRank](https://www.hackerrank.com/)
