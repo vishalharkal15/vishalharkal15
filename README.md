@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/harkal_vishal" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/harkal_vishal?logo=twitter&style=for-the-badge" alt="https://x.com/@harkal_vishal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://vishalharkal.me/](https://vishalharkal.me/)
+- 👨‍💻 All of my projects are available at [https://vishalharkal.me/](https://vishalharkal.netlify.app/)
 
 - 📫 How to reach me **vishalharkal15@gmail.com**
 
